@@ -1,71 +1,74 @@
 body {
-background-color: #1e1e1e;
-color: #e0e0e0;
-font-family: 'Fira Code', 'Cascadia Code', monospace;
-margin: 20px;
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    font-family: 'Fira Code', 'Cascadia Code', monospace;
+    margin: 20px;
 }
 
 
-h1, h2, h3 {
-color: #00ff7f;
+h1,
+h2,
+h3 {
+    color: #00ff7f;
 }
 
 
 a {
-color: #66ffcc;
-text-decoration: none;
+    color: #66ffcc;
+    text-decoration: none;
 }
 
 
 a:hover {
-text-decoration: underline;
+    text-decoration: underline;
 }
 
 
 button {
-background-color: #00ff7f;
-color: #1e1e1e;
-border: none;
-padding: 8px 16px;
-font-family: inherit;
-cursor: pointer;
+    background-color: #00ff7f;
+    color: #1e1e1e;
+    border: none;
+    padding: 8px 16px;
+    font-family: inherit;
+    cursor: pointer;
 }
 
 
 button:hover {
-background-color: #00cc66;
+    background-color: #00cc66;
 }
 
 
 img {
-border: 2px solid #444;
-border-radius: 8px;
+    border: 2px solid #444;
+    border-radius: 8px;
 }
 
 
 table {
-border-collapse: collapse;
-margin-top: 10px;
-width: 80%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    width: 80%;
 }
 
 
-th, td {
-border: 1px solid #444;
-padding: 8px;
-text-align: center;
+th,
+td {
+    border: 1px solid #444;
+    padding: 8px;
+    text-align: center;
 }
 
 
 th {
-background-color: #333;
-color: #00ff7f;
+    background-color: #333;
+    color: #00ff7f;
 }
 
 
 footer {
-margin-top: 20px;
-font-size: 0.9em;
-color: #888;
-text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #888;
+    text-align: center;
 }
